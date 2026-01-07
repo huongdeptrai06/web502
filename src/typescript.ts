@@ -37,6 +37,12 @@ multiType = "Twenty";
 multiType = true;
 // multiType = []; // error
 
+//8. Literal Type
+let status: "active" | "inactive" | "pending";
+// status = "success"; // error lỗi
+status = "active";
+
+
 
 
 

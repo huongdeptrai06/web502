@@ -1,4 +1,5 @@
 "use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 // 1
 function tinhHinhChuNhat(dai, rong) {
     const chuVi = (dai + rong) * 2;
